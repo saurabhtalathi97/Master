@@ -1,0 +1,29 @@
+.container {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background: dimgrey;
+}
+
+.color-picker-container {
+    text-align: center;
+    display: inline;
+    color: white;
+}
+
+.size {
+    display: inline;
+    color: white;
+    margin-left: 12px;
+}
+
+.tools-section {
+    text-align: center;
+}
+
+.board-container {
+    width: 99%;
+    height: 99%;
+    margin: 1% auto auto;
+    background: white;
+}
